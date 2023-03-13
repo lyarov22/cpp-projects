@@ -1,0 +1,13 @@
+﻿  basic.cpp
+  basicMath.cpp
+  factorial.cpp
+  getNumber.cpp
+  input.cpp
+C:\Users\dyudy\OneDrive\Рабочий стол\07032023\input.cpp(16,26): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+  main.cpp
+C:\Users\dyudy\OneDrive\Рабочий стол\07032023\main.cpp(86,25): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\dyudy\OneDrive\Рабочий стол\07032023\main.cpp(86,22): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  strings.cpp
+  Создание кода...
+C:\Users\dyudy\OneDrive\Рабочий стол\07032023\main.cpp(105): warning C4717: main: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+  07032023.vcxproj -> C:\projects\cpp-projects\07032023\x64\Debug\07032023.exe
